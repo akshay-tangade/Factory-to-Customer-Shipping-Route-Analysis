@@ -106,7 +106,7 @@ from PIL import Image as _Image
 _col_logo, _col_title = st.columns([1, 5])
 with _col_logo:
     try:
-        _logo = _Image.open("Nassua Candy Logo.jpg")
+        _logo = _Image.open("../Nassua Candy Logo.jpg")
         st.image(_logo, width=130)
     except Exception:
         pass
@@ -122,7 +122,7 @@ with st.sidebar:
     # ── Logo ─────────────────────────────────────────────────────────────────
     from PIL import Image
     try:
-        logo = Image.open("Nassua Candy Logo.jpg")
+        logo = Image.open("../Nassua Candy Logo.jpg")
         st.image(logo, use_container_width=True)
     except Exception:
         st.title("🍬 Nassau Candy")
