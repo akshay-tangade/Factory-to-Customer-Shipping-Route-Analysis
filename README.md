@@ -49,10 +49,10 @@ Project 1/
 
 The project runs in two stages.
 
-**Stage 1 — analysis.py**
+**Stage 1 - analysis.py**
 Reads the raw CSV, cleans the data, engineers features, computes all KPIs, and saves 11 output CSV files to the outputs/ folder. This script contains all the analytical logic and must be run before the dashboard.
 
-**Stage 2 — dashboard.py**
+**Stage 2 - dashboard.py**
 Loads the pre-computed CSV files and renders them as an interactive web application. No recalculation happens in the dashboard — it only visualises what analysis.py already computed.
 
 ---
@@ -69,7 +69,7 @@ pip install pandas numpy streamlit plotly pillow
 
 ## How to Run
 
-Step 1 — Navigate to the Code folder and run the analysis pipeline:
+Step 1 - Navigate to the Code folder and run the analysis pipeline:
 
 ```
 cd Code
@@ -78,7 +78,7 @@ python analysis.py
 
 This will generate all 11 KPI files inside the outputs/ folder.
 
-Step 2 — Launch the dashboard:
+Step 2 - Launch the dashboard:
 
 ```
 streamlit run dashboard.py
