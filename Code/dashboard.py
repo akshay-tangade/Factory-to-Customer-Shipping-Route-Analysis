@@ -87,7 +87,7 @@ except FileNotFoundError:
 # PAGE SETUP
 # ─────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Nassau Candy — Shipping Intelligence",
+    page_title="Nassau Candy Shipping Intelligence",
     page_icon="🍬",
     layout="wide",
     initial_sidebar_state="expanded",
