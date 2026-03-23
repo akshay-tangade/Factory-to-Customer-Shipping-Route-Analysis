@@ -3,17 +3,22 @@ Nassau Candy Distributor — Shipping Route Efficiency Dashboard
 ===============================================================
 """
 
+import os
 import pandas as pd
 import numpy as np
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+from pathlib import Path
+from PIL import Image
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
-OUTPUT_DIR = "../outputs"
+BASE_DIR = Path(__file__).resolve().parent
+OUTPUT_DIR = BASE_DIR.parent / "outputs"
+LOGO_PATH = BASE_DIR.parent / "Nassua Candy Logo.jpg"
 
 FACTORY_COORDS = {
     "Lot's O' Nuts":     {"lat": 32.881893, "lon": -111.768036},
@@ -50,7 +55,7 @@ REGION_COLORS = {
 @st.cache_data
 def load_all():
     def load(f):
-        return pd.read_csv(f"{OUTPUT_DIR}/{f}")
+        return pd.read_csv(OUTPUT_DIR / f)
 
     orders = load("kpi_orders_enriched.csv")
     orders["Order Date"] = pd.to_datetime(orders["Order Date"])
@@ -106,7 +111,7 @@ from PIL import Image as _Image
 _col_logo, _col_title = st.columns([1, 5])
 with _col_logo:
     try:
-        _logo = _Image.open("../Nassua Candy Logo.jpg")
+        _logo = _Image.open(LOGO_PATH)
         st.image(_logo, width=130)
     except Exception:
         pass
@@ -122,7 +127,7 @@ with st.sidebar:
     # ── Logo ─────────────────────────────────────────────────────────────────
     from PIL import Image
     try:
-        logo = Image.open("../Nassua Candy Logo.jpg")
+        logo = Image.open(LOGO_PATH)
         st.image(logo, use_container_width=True)
     except Exception:
         st.title("🍬 Nassau Candy")
