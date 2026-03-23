@@ -1,0 +1,7 @@
+State/Province,Region,Route_Volume,Avg_Lead_Time,Lead_Time_Std_Dev,Delay_Frequency_Pct,Total_Sales,Avg_Efficiency_Score,Is_Bottleneck
+Minnesota,Interior,89,178.96,1.7,31.46,1161.46,54.96,1
+Tennessee,Gulf,183,178.81,1.51,34.97,2383.56,56.29,1
+New Jersey,Atlantic,130,178.75,1.71,35.38,1578.3500000000001,56.78,1
+Indiana,Interior,149,178.71,1.67,34.23,2002.78,57.17,1
+Oregon,Pacific,124,178.6,1.71,33.87,1920.15,58.21,1
+Delaware,Atlantic,96,178.55,1.77,32.29,1323.59,58.62,1

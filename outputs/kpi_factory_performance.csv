@@ -1,0 +1,6 @@
+Factory,Route_Volume,Unique_States,Unique_Routes,Avg_Lead_Time,Lead_Time_Std_Dev,Delay_Frequency_Pct,Avg_Efficiency_Score,Total_Sales,Avg_Gross_Profit
+The Other Factory,100,28,28,177.98,1.8,21.0,63.82,1282.25,1.52
+Secret Factory,217,39,39,178.09,1.7,19.82,62.8,8587.5,20.02
+Lot's O' Nuts,5692,57,57,178.26,1.8,24.3,61.25,76340.15000000001,9.27
+Wicked Choccy's,4152,57,57,178.35,1.8,25.58,60.48,55352.75,8.68
+Sugar Shack,33,15,15,178.67,1.61,36.36,57.58,220.98,3.67

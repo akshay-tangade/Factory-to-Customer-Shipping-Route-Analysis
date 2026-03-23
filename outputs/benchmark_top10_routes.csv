@@ -1,0 +1,11 @@
+Factory,State/Province,Region,Route_State,Route_Region,Route_Volume,Avg_Lead_Time,Median_Lead_Time,Lead_Time_Std_Dev,Lead_Time_Min,Lead_Time_Max,Delayed_Shipments,Delay_Frequency_Pct,Avg_Efficiency_Score,Total_Sales,Avg_Gross_Profit,Total_Units,Efficiency_Rank
+The Other Factory,North Carolina,Gulf,The Other Factory  →  North Carolina,The Other Factory  →  Gulf,1,175.0,175.0,,175,175,0,0.0,90.91,9.0,7.0,2,1
+The Other Factory,Kentucky,Gulf,The Other Factory  →  Kentucky,The Other Factory  →  Gulf,2,176.0,176.0,2.83,174,178,0,0.0,81.82,26.0,1.0,8,2
+Secret Factory,New Mexico,Pacific,Secret Factory  →  New Mexico,Secret Factory  →  Pacific,2,176.0,176.0,2.83,174,178,0,0.0,81.82,12.5,3.25,10,2
+The Other Factory,New Hampshire,Atlantic,The Other Factory  →  New Hampshire,The Other Factory  →  Atlantic,2,176.0,176.0,0.0,176,176,0,0.0,81.82,35.75,1.375,11,2
+Secret Factory,Nebraska,Interior,Secret Factory  →  Nebraska,Secret Factory  →  Interior,1,176.0,176.0,,176,176,0,0.0,81.82,2.5,1.3,2,2
+Lot's O' Nuts,Manitoba,Interior,Lot's O' Nuts  →  Manitoba,Lot's O' Nuts  →  Interior,2,176.5,176.5,0.71,176,177,0,0.0,77.28,18.0,6.0,5,6
+Sugar Shack,Illinois,Interior,Sugar Shack  →  Illinois,Sugar Shack  →  Interior,2,176.5,176.5,0.71,176,177,0,0.0,77.28,12.0,3.15,5,6
+Secret Factory,Oregon,Pacific,Secret Factory  →  Oregon,Secret Factory  →  Pacific,2,176.5,176.5,0.71,176,177,0,0.0,77.28,180.0,45.0,9,6
+The Other Factory,Oregon,Pacific,The Other Factory  →  Oregon,The Other Factory  →  Pacific,2,176.5,176.5,0.71,176,177,0,0.0,77.28,26.0,1.0,8,6
+The Other Factory,Arizona,Pacific,The Other Factory  →  Arizona,The Other Factory  →  Pacific,2,176.5,176.5,0.71,176,177,0,0.0,77.28,38.75,9.375,10,6

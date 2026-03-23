@@ -1,0 +1,507 @@
+Route_State,Route_Volume,Avg_Lead_Time,Delay_Frequency_Pct,Avg_Efficiency_Score,Ship_Mode
+Lot's O' Nuts  →  Colorado,2,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Delaware,2,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Georgia,9,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Indiana,2,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Kentucky,3,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Louisiana,2,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  South Carolina,2,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Nevada,1,174.0,0.0,100.0,Same Day
+Lot's O' Nuts  →  Virginia,2,174.0,0.0,100.0,Same Day
+The Other Factory  →  Kentucky,1,174.0,0.0,100.0,Same Day
+The Other Factory  →  Pennsylvania,1,174.0,0.0,100.0,Same Day
+The Other Factory  →  New York,1,174.0,0.0,100.0,Same Day
+The Other Factory  →  Virginia,1,174.0,0.0,100.0,Same Day
+Secret Factory  →  Michigan,1,174.0,0.0,100.0,Same Day
+Secret Factory  →  New York,1,174.0,0.0,100.0,Same Day
+Secret Factory  →  New Mexico,1,174.0,0.0,100.0,Same Day
+Secret Factory  →  Pennsylvania,2,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Michigan,5,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Iowa,1,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Alabama,1,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Kentucky,1,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Indiana,1,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  North Carolina,3,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Montana,1,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  South Carolina,3,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Virginia,2,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  Wisconsin,1,174.0,0.0,100.0,Same Day
+Wicked Choccy's  →  New York,26,174.12,0.0,98.95115384615384,Same Day
+Lot's O' Nuts  →  Michigan,12,174.17,0.0,98.485,Same Day
+Wicked Choccy's  →  Florida,12,174.17,0.0,98.485,Same Day
+Wicked Choccy's  →  Georgia,6,174.17,0.0,98.485,Same Day
+Wicked Choccy's  →  Ohio,22,174.18,0.0,98.34727272727272,Same Day
+Lot's O' Nuts  →  Florida,16,174.19,0.0,98.295625,Same Day
+Wicked Choccy's  →  Connecticut,5,174.2,0.0,98.18199999999999,Same Day
+Lot's O' Nuts  →  Connecticut,5,174.2,0.0,98.18199999999999,Same Day
+Lot's O' Nuts  →  New York,34,174.26,0.0,97.59382352941176,Same Day
+Wicked Choccy's  →  Texas,22,174.32,0.0,97.10772727272727,Same Day
+Lot's O' Nuts  →  California,69,174.32,0.0,97.10173913043478,Same Day
+Lot's O' Nuts  →  Maryland,3,174.33,0.0,96.96999999999998,Same Day
+Wicked Choccy's  →  Pennsylvania,6,174.33,0.0,96.96999999999998,Same Day
+Wicked Choccy's  →  Colorado,3,174.33,0.0,96.96999999999998,Same Day
+Lot's O' Nuts  →  Ohio,29,174.34,0.0,96.86551724137931,Same Day
+Lot's O' Nuts  →  Pennsylvania,7,174.43,0.0,96.10428571428572,Same Day
+Lot's O' Nuts  →  Texas,26,174.46,0.0,95.80461538461539,Same Day
+Lot's O' Nuts  →  Oklahoma,4,174.5,0.0,95.455,Same Day
+Lot's O' Nuts  →  Quebec,4,174.5,0.0,95.455,Same Day
+The Other Factory  →  California,2,174.5,0.0,95.455,Same Day
+Wicked Choccy's  →  Maryland,4,174.5,0.0,95.455,Same Day
+Lot's O' Nuts  →  Arizona,10,174.5,0.0,95.455,Same Day
+Secret Factory  →  California,2,174.5,0.0,95.455,Same Day
+Wicked Choccy's  →  Washington,19,174.53,0.0,95.21578947368421,Same Day
+Wicked Choccy's  →  California,46,174.57,0.0,94.86217391304348,Same Day
+Lot's O' Nuts  →  Illinois,10,174.6,0.0,94.546,Same Day
+Wicked Choccy's  →  Illinois,14,174.64,0.0,94.15642857142858,Same Day
+Lot's O' Nuts  →  Washington,20,174.65,0.0,94.0915,Same Day
+Lot's O' Nuts  →  North Carolina,9,174.67,0.0,93.94,Same Day
+Wicked Choccy's  →  Arizona,6,174.67,0.0,93.94,Same Day
+Lot's O' Nuts  →  Massachusetts,4,174.75,0.0,93.1825,Same Day
+Lot's O' Nuts  →  Wisconsin,6,174.83,0.0,92.425,Same Day
+Lot's O' Nuts  →  West Virginia,1,175.0,0.0,90.91,Same Day
+Lot's O' Nuts  →  Missouri,2,175.0,0.0,90.91,Same Day
+Lot's O' Nuts  →  Mississippi,3,175.0,0.0,90.91000000000001,Same Day
+Lot's O' Nuts  →  Tennessee,2,175.0,0.0,90.91,Same Day
+Lot's O' Nuts  →  Utah,1,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  Minnesota,4,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  Kansas,1,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  Arkansas,1,175.0,0.0,90.91,Same Day
+Secret Factory  →  Colorado,1,175.0,0.0,90.91,Same Day
+Secret Factory  →  North Carolina,1,175.0,0.0,90.91,Same Day
+Secret Factory  →  Illinois,2,175.0,0.0,90.91,Same Day
+Sugar Shack  →  Ohio,1,175.0,0.0,90.91,Same Day
+The Other Factory  →  North Carolina,1,175.0,0.0,90.91,Same Day
+Lot's O' Nuts  →  Nebraska,2,175.0,0.0,90.91,Same Day
+Lot's O' Nuts  →  Arkansas,1,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  Nebraska,1,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  New Jersey,1,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  Oklahoma,3,175.0,0.0,90.91000000000001,Same Day
+Wicked Choccy's  →  Mississippi,1,175.0,0.0,90.91,Same Day
+Wicked Choccy's  →  Utah,1,175.0,0.0,90.91,Same Day
+Lot's O' Nuts  →  Iowa,1,175.0,0.0,90.91,First Class
+Wicked Choccy's  →  Nevada,1,175.0,0.0,90.91,First Class
+Lot's O' Nuts  →  Arkansas,5,175.2,0.0,89.092,First Class
+Lot's O' Nuts  →  New Hampshire,2,175.5,0.0,86.365,First Class
+Wicked Choccy's  →  Arkansas,5,175.6,0.0,85.45599999999999,First Class
+Lot's O' Nuts  →  Nevada,2,176.0,0.0,81.82,First Class
+Lot's O' Nuts  →  New Mexico,1,176.0,0.0,81.82,First Class
+Lot's O' Nuts  →  Louisiana,5,176.0,0.0,81.82,First Class
+Secret Factory  →  Massachusetts,1,176.0,0.0,81.82,First Class
+Secret Factory  →  Nevada,1,176.0,0.0,81.82,First Class
+Secret Factory  →  Virginia,2,176.0,0.0,81.82,First Class
+Wicked Choccy's  →  Utah,2,176.0,0.0,81.82,First Class
+The Other Factory  →  Ohio,1,176.0,0.0,81.82,First Class
+Wicked Choccy's  →  Louisiana,5,176.0,0.0,81.82,First Class
+Lot's O' Nuts  →  Nebraska,4,176.0,0.0,81.82,First Class
+Secret Factory  →  Rhode Island,1,176.0,0.0,81.82,First Class
+Wicked Choccy's  →  Oklahoma,1,176.0,0.0,81.82,First Class
+Wicked Choccy's  →  Missouri,5,176.0,0.0,81.82,First Class
+Lot's O' Nuts  →  Virginia,26,176.12,0.0,80.77115384615384,First Class
+Wicked Choccy's  →  Arizona,22,176.14,0.0,80.58045454545454,First Class
+Secret Factory  →  Texas,5,176.2,0.0,80.002,First Class
+Lot's O' Nuts  →  Delaware,10,176.2,0.0,80.002,First Class
+Wicked Choccy's  →  North Carolina,18,176.22,0.0,79.8,First Class
+Lot's O' Nuts  →  Arizona,17,176.24,0.0,79.68117647058823,First Class
+Lot's O' Nuts  →  Ontario,4,176.25,0.0,79.5475,First Class
+Lot's O' Nuts  →  Oklahoma,4,176.25,0.0,79.5475,First Class
+Wicked Choccy's  →  Florida,23,176.26,0.0,79.44869565217391,First Class
+Wicked Choccy's  →  New York,63,176.32,0.0,78.9342857142857,First Class
+Lot's O' Nuts  →  California,202,176.33,0.0,78.80499999999999,First Class
+Wicked Choccy's  →  Wisconsin,6,176.33,0.0,78.79,First Class
+Secret Factory  →  Colorado,3,176.33,0.0,78.79,First Class
+Secret Factory  →  Washington,3,176.33,0.0,78.79,First Class
+Wicked Choccy's  →  Nebraska,3,176.33,0.0,78.79,First Class
+Wicked Choccy's  →  Connecticut,5,176.4,0.0,78.184,First Class
+Lot's O' Nuts  →  Florida,29,176.41,0.0,78.05862068965517,First Class
+Lot's O' Nuts  →  New York,107,176.46,0.0,77.65728971962616,First Class
+Sugar Shack  →  New York,2,176.5,0.0,77.275,First Class
+The Other Factory  →  Pennsylvania,2,176.5,0.0,77.275,First Class
+Secret Factory  →  New York,6,176.5,0.0,77.27499999999999,First Class
+Secret Factory  →  Ohio,4,176.5,0.0,77.275,First Class
+Lot's O' Nuts  →  North Carolina,20,176.5,0.0,77.275,First Class
+Lot's O' Nuts  →  Manitoba,2,176.5,0.0,77.275,First Class
+Lot's O' Nuts  →  Georgia,12,176.5,0.0,77.27499999999999,First Class
+Wicked Choccy's  →  Oregon,8,176.5,0.0,77.275,First Class
+Wicked Choccy's  →  Manitoba,2,176.5,0.0,77.275,First Class
+Wicked Choccy's  →  Massachusetts,4,176.5,0.0,77.275,First Class
+The Other Factory  →  Florida,2,176.5,0.0,77.275,First Class
+Wicked Choccy's  →  Georgia,8,176.5,0.0,77.275,First Class
+Lot's O' Nuts  →  Utah,2,176.5,0.0,77.275,First Class
+Lot's O' Nuts  →  New Jersey,8,176.5,0.0,77.275,First Class
+Lot's O' Nuts  →  Colorado,24,176.5,0.0,77.27499999999999,First Class
+Wicked Choccy's  →  Ohio,27,176.52,0.0,77.10666666666667,First Class
+Lot's O' Nuts  →  Connecticut,13,176.54,0.0,76.92538461538462,First Class
+Lot's O' Nuts  →  Pennsylvania,58,176.55,0.0,76.8048275862069,First Class
+Wicked Choccy's  →  California,112,176.55,0.0,76.78803571428571,First Class
+Lot's O' Nuts  →  Oregon,14,176.57,0.0,76.62571428571428,First Class
+Lot's O' Nuts  →  Maryland,12,176.58,0.0,76.5175,First Class
+Wicked Choccy's  →  Indiana,5,176.6,0.0,76.36600000000001,First Class
+Lot's O' Nuts  →  Wisconsin,5,176.6,0.0,76.366,First Class
+Lot's O' Nuts  →  Kentucky,5,176.6,0.0,76.36600000000001,First Class
+Secret Factory  →  California,5,176.6,0.0,76.366,First Class
+Wicked Choccy's  →  Michigan,5,176.6,0.0,76.366,First Class
+Lot's O' Nuts  →  Rhode Island,11,176.64,0.0,76.03545454545454,First Class
+Lot's O' Nuts  →  Texas,72,176.64,0.0,76.01249999999999,First Class
+Wicked Choccy's  →  Pennsylvania,45,176.64,0.0,75.962,First Class
+Lot's O' Nuts  →  Ohio,61,176.66,0.0,75.85934426229508,First Class
+Wicked Choccy's  →  Rhode Island,6,176.67,0.0,75.76,First Class
+The Other Factory  →  California,3,176.67,0.0,75.76,First Class
+Wicked Choccy's  →  Colorado,17,176.71,0.0,75.4035294117647,First Class
+Wicked Choccy's  →  Texas,65,176.71,0.0,75.38707692307692,First Class
+Wicked Choccy's  →  Illinois,23,176.74,0.0,75.10130434782609,First Class
+Wicked Choccy's  →  Virginia,21,176.76,0.0,74.89428571428572,First Class
+Lot's O' Nuts  →  Michigan,15,176.8,0.0,74.548,First Class
+Lot's O' Nuts  →  Washington,35,176.83,0.0,74.28828571428572,First Class
+Wicked Choccy's  →  New Jersey,6,176.83,0.0,74.245,First Class
+Wicked Choccy's  →  Washington,30,176.83,0.0,74.24499999999999,First Class
+Lot's O' Nuts  →  Massachusetts,14,176.86,0.0,74.02857142857144,First Class
+Wicked Choccy's  →  Delaware,8,176.88,0.0,73.86625000000001,First Class
+Lot's O' Nuts  →  Indiana,10,176.9,0.0,73.639,First Class
+Lot's O' Nuts  →  Illinois,40,176.98,0.0,72.95725,First Class
+Lot's O' Nuts  →  Minnesota,4,177.0,0.0,72.72999999999999,First Class
+Lot's O' Nuts  →  Missouri,3,177.0,0.0,72.73,First Class
+Lot's O' Nuts  →  Alabama,4,177.0,0.0,72.73,First Class
+Wicked Choccy's  →  Minnesota,6,177.0,0.0,72.73,First Class
+Wicked Choccy's  →  Alabama,4,177.0,0.0,72.73,First Class
+Wicked Choccy's  →  Tennessee,7,177.0,0.0,72.73,First Class
+Wicked Choccy's  →  Mississippi,1,177.0,0.0,72.73,First Class
+Secret Factory  →  Oregon,1,177.0,0.0,72.73,First Class
+Secret Factory  →  Arizona,2,177.0,0.0,72.73,First Class
+Secret Factory  →  Alabama,1,177.0,0.0,72.73,First Class
+Secret Factory  →  Wisconsin,1,177.0,0.0,72.73,First Class
+Lot's O' Nuts  →  South Carolina,3,177.0,0.0,72.73,First Class
+Sugar Shack  →  Illinois,1,177.0,0.0,72.73,First Class
+Lot's O' Nuts  →  Mississippi,2,177.0,0.0,72.73,First Class
+Secret Factory  →  Indiana,1,177.0,0.0,72.73,First Class
+Sugar Shack  →  Michigan,1,177.0,0.0,72.73,First Class
+The Other Factory  →  Texas,2,177.0,0.0,72.72999999999999,First Class
+The Other Factory  →  Oregon,1,177.0,0.0,72.73,First Class
+The Other Factory  →  New York,1,177.0,0.0,72.73,First Class
+Wicked Choccy's  →  Idaho,2,177.0,0.0,72.73,First Class
+The Other Factory  →  Arizona,1,177.0,0.0,72.73,First Class
+The Other Factory  →  Virginia,1,177.0,0.0,72.73,First Class
+Wicked Choccy's  →  Kentucky,7,177.0,0.0,72.73,First Class
+The Other Factory  →  Massachusetts,1,177.0,0.0,72.73,First Class
+Lot's O' Nuts  →  Tennessee,15,177.07,0.0,72.124,First Class
+Secret Factory  →  Pennsylvania,4,177.25,0.0,70.4575,First Class
+Secret Factory  →  Illinois,3,177.33,0.0,69.7,First Class
+Lot's O' Nuts  →  Kansas,5,177.4,0.0,69.09400000000001,First Class
+Wicked Choccy's  →  Quebec,2,177.5,0.0,68.185,First Class
+Secret Factory  →  Georgia,2,177.5,0.0,68.185,First Class
+Lot's O' Nuts  →  Idaho,2,177.5,0.0,68.185,First Class
+Wicked Choccy's  →  Maryland,6,177.5,0.0,68.185,First Class
+Secret Factory  →  Connecticut,1,178.0,0.0,63.64,First Class
+Wicked Choccy's  →  Kansas,1,178.0,0.0,63.64,First Class
+The Other Factory  →  Nevada,1,178.0,0.0,63.64,First Class
+The Other Factory  →  Kentucky,1,178.0,0.0,63.64,First Class
+Wicked Choccy's  →  South Dakota,2,178.0,0.0,63.64,First Class
+Wicked Choccy's  →  Montana,1,178.0,0.0,63.64,First Class
+Lot's O' Nuts  →  Idaho,3,176.0,0.0,81.82,Second Class
+Lot's O' Nuts  →  Kansas,1,176.0,0.0,81.82,Second Class
+Lot's O' Nuts  →  Nebraska,2,176.0,0.0,81.82,Second Class
+Secret Factory  →  Nebraska,1,176.0,0.0,81.82,Second Class
+Secret Factory  →  Oregon,1,176.0,0.0,81.82,Second Class
+The Other Factory  →  Connecticut,1,176.0,0.0,81.82,Second Class
+The Other Factory  →  New Hampshire,2,176.0,0.0,81.82,Second Class
+Wicked Choccy's  →  Kansas,1,176.0,0.0,81.82,Second Class
+Wicked Choccy's  →  Idaho,1,176.0,0.0,81.82,Second Class
+The Other Factory  →  Ohio,1,176.0,0.0,81.82,Second Class
+The Other Factory  →  Tennessee,1,176.0,0.0,81.82,Second Class
+The Other Factory  →  Oregon,1,176.0,0.0,81.82,Second Class
+The Other Factory  →  Arizona,1,176.0,0.0,81.82,Second Class
+Sugar Shack  →  Illinois,1,176.0,0.0,81.82,Second Class
+Wicked Choccy's  →  Vermont,1,176.0,0.0,81.82,Second Class
+Wicked Choccy's  →  Ontario,4,176.25,0.0,79.5475,Second Class
+Lot's O' Nuts  →  Ontario,8,176.25,0.0,79.5475,Second Class
+Wicked Choccy's  →  Oregon,5,176.4,0.0,78.184,Second Class
+Lot's O' Nuts  →  British Columbia,2,176.5,0.0,77.275,Second Class
+Wicked Choccy's  →  Nova Scotia,2,176.5,0.0,77.275,Second Class
+Secret Factory  →  Texas,4,176.75,0.0,75.0025,Second Class
+Wicked Choccy's  →  New Jersey,13,176.77,0.0,74.8276923076923,Second Class
+Lot's O' Nuts  →  Colorado,23,176.91,0.0,73.5204347826087,Second Class
+Lot's O' Nuts  →  Massachusetts,19,176.95,0.0,73.20842105263158,Second Class
+Secret Factory  →  Pennsylvania,2,177.0,0.0,72.72999999999999,Second Class
+Secret Factory  →  Rhode Island,1,177.0,0.0,72.73,Second Class
+Lot's O' Nuts  →  North Dakota,3,177.0,0.0,72.73,Second Class
+Lot's O' Nuts  →  Wisconsin,8,177.0,0.0,72.73,Second Class
+Lot's O' Nuts  →  Oregon,10,177.0,0.0,72.72999999999999,Second Class
+Lot's O' Nuts  →  Rhode Island,11,177.0,9.09,72.72909090909091,Second Class
+Lot's O' Nuts  →  Georgia,19,177.0,10.53,72.72894736842105,Second Class
+The Other Factory  →  Delaware,1,177.0,0.0,72.73,Second Class
+The Other Factory  →  Colorado,1,177.0,0.0,72.73,Second Class
+The Other Factory  →  Louisiana,1,177.0,0.0,72.73,Second Class
+Secret Factory  →  Wisconsin,1,177.0,0.0,72.73,Second Class
+The Other Factory  →  Texas,2,177.0,0.0,72.72999999999999,Second Class
+Sugar Shack  →  Texas,1,177.0,0.0,72.73,Second Class
+The Other Factory  →  Massachusetts,1,177.0,0.0,72.73,Second Class
+Wicked Choccy's  →  Michigan,19,177.0,0.0,72.72999999999999,Second Class
+Wicked Choccy's  →  North Dakota,2,177.0,0.0,72.73,Second Class
+Wicked Choccy's  →  Oklahoma,3,177.0,0.0,72.73,Second Class
+Sugar Shack  →  Tennessee,1,177.0,0.0,72.73,Second Class
+Wicked Choccy's  →  Wisconsin,6,177.0,0.0,72.73,Second Class
+Secret Factory  →  Colorado,1,177.0,0.0,72.73,Second Class
+Lot's O' Nuts  →  Michigan,29,177.03,0.0,72.41655172413793,Second Class
+Lot's O' Nuts  →  Texas,114,177.19,5.26,70.97526315789473,Second Class
+Wicked Choccy's  →  Connecticut,5,177.2,20.0,70.91,Second Class
+Wicked Choccy's  →  Iowa,5,177.2,0.0,70.912,Second Class
+Wicked Choccy's  →  Rhode Island,9,177.22,11.11,70.7088888888889,Second Class
+Lot's O' Nuts  →  Ohio,46,177.24,6.52,70.55565217391305,Second Class
+Wicked Choccy's  →  Alabama,8,177.25,0.0,70.4575,Second Class
+Wicked Choccy's  →  New Hampshire,4,177.25,0.0,70.4575,Second Class
+Wicked Choccy's  →  Virginia,20,177.25,0.0,70.4575,Second Class
+Wicked Choccy's  →  Tennessee,7,177.29,14.29,70.13142857142857,Second Class
+Wicked Choccy's  →  Delaware,10,177.3,10.0,70.002,Second Class
+Wicked Choccy's  →  Georgia,12,177.33,0.0,69.7,Second Class
+Secret Factory  →  California,9,177.33,0.0,69.69999999999999,Second Class
+Lot's O' Nuts  →  Nevada,6,177.33,0.0,69.7,Second Class
+Lot's O' Nuts  →  New Jersey,11,177.36,0.0,69.42454545454545,Second Class
+Wicked Choccy's  →  Colorado,8,177.38,0.0,69.32124999999999,Second Class
+Wicked Choccy's  →  Washington,50,177.4,2.0,69.0938,Second Class
+Lot's O' Nuts  →  Iowa,5,177.4,0.0,69.094,Second Class
+Lot's O' Nuts  →  New Hampshire,5,177.4,0.0,69.094,Second Class
+Wicked Choccy's  →  Ohio,47,177.43,6.38,68.86127659574468,Second Class
+Lot's O' Nuts  →  Virginia,21,177.43,0.0,68.83428571428571,Second Class
+Wicked Choccy's  →  Louisiana,7,177.43,0.0,68.83428571428571,Second Class
+Lot's O' Nuts  →  Tennessee,16,177.44,6.25,68.7525,Second Class
+Lot's O' Nuts  →  Pennsylvania,56,177.45,1.79,68.67178571428572,Second Class
+Lot's O' Nuts  →  California,226,177.47,7.08,68.4658407079646,Second Class
+Secret Factory  →  Kentucky,2,177.5,0.0,68.185,Second Class
+Secret Factory  →  Illinois,2,177.5,0.0,68.185,Second Class
+Secret Factory  →  Virginia,2,177.5,0.0,68.185,Second Class
+Wicked Choccy's  →  Mississippi,2,177.5,0.0,68.185,Second Class
+Secret Factory  →  Alabama,2,177.5,0.0,68.185,Second Class
+Wicked Choccy's  →  California,154,177.52,7.14,68.0072077922078,Second Class
+Wicked Choccy's  →  Florida,23,177.52,4.35,67.98695652173913,Second Class
+Wicked Choccy's  →  Pennsylvania,33,177.55,3.03,67.77151515151515,Second Class
+Lot's O' Nuts  →  Indiana,27,177.59,7.41,67.3425925925926,Second Class
+The Other Factory  →  California,5,177.6,0.0,67.276,Second Class
+Lot's O' Nuts  →  Delaware,5,177.6,0.0,67.276,Second Class
+Lot's O' Nuts  →  Florida,40,177.6,10.0,67.275,Second Class
+Wicked Choccy's  →  North Carolina,21,177.62,4.76,67.10238095238095,Second Class
+Lot's O' Nuts  →  Alabama,8,177.62,0.0,67.04875,Second Class
+Lot's O' Nuts  →  Washington,52,177.63,7.69,66.96057692307691,Second Class
+Lot's O' Nuts  →  Kentucky,34,177.65,8.82,66.84735294117647,Second Class
+Lot's O' Nuts  →  Louisiana,6,177.67,0.0,66.67,Second Class
+Wicked Choccy's  →  Nebraska,3,177.67,33.33,66.66666666666667,Second Class
+Wicked Choccy's  →  South Carolina,9,177.67,11.11,66.66888888888889,Second Class
+Secret Factory  →  Washington,3,177.67,0.0,66.67,Second Class
+Lot's O' Nuts  →  Arizona,12,177.67,0.0,66.67,Second Class
+Wicked Choccy's  →  Texas,70,177.71,12.86,66.23585714285714,Second Class
+Lot's O' Nuts  →  South Carolina,8,177.75,0.0,65.9125,Second Class
+Lot's O' Nuts  →  North Carolina,21,177.76,0.0,65.80428571428571,Second Class
+Wicked Choccy's  →  Kentucky,17,177.76,11.76,65.77764705882353,Second Class
+Wicked Choccy's  →  Maryland,5,177.8,0.0,65.458,Second Class
+Wicked Choccy's  →  Massachusetts,15,177.87,0.0,64.852,Second Class
+Wicked Choccy's  →  Indiana,8,177.88,0.0,64.77625,Second Class
+Wicked Choccy's  →  New York,79,177.92,15.19,64.32886075949367,Second Class
+Lot's O' Nuts  →  New York,123,177.94,13.82,64.1559349593496,Second Class
+Lot's O' Nuts  →  Illinois,62,177.95,0.0,64.07983870967742,Second Class
+Lot's O' Nuts  →  South Dakota,1,178.0,0.0,63.64,Second Class
+Lot's O' Nuts  →  Quebec,4,178.0,25.0,63.6375,Second Class
+Lot's O' Nuts  →  Minnesota,4,178.0,0.0,63.64,Second Class
+Wicked Choccy's  →  Nevada,6,178.0,0.0,63.63999999999999,Second Class
+The Other Factory  →  New York,2,178.0,50.0,63.635,Second Class
+The Other Factory  →  South Carolina,1,178.0,0.0,63.64,Second Class
+Sugar Shack  →  California,1,178.0,0.0,63.64,Second Class
+Secret Factory  →  Maryland,1,178.0,0.0,63.64,Second Class
+Lot's O' Nuts  →  Maryland,8,178.12,0.0,62.50375,Second Class
+Wicked Choccy's  →  Illinois,39,178.18,12.82,62.00717948717948,Second Class
+Lot's O' Nuts  →  Arkansas,5,178.2,40.0,61.818000000000005,Second Class
+Wicked Choccy's  →  Arizona,14,178.21,14.29,61.690714285714286,Second Class
+Secret Factory  →  New York,4,178.25,25.0,61.365,Second Class
+Wicked Choccy's  →  Utah,8,178.38,0.0,60.23125,Second Class
+Wicked Choccy's  →  Arkansas,4,178.5,50.0,59.09,Second Class
+Lot's O' Nuts  →  Alberta,10,178.5,10.0,59.09400000000001,Second Class
+Lot's O' Nuts  →  Utah,11,178.55,0.0,58.68181818181818,Second Class
+Lot's O' Nuts  →  Connecticut,5,178.6,40.0,58.181999999999995,Second Class
+Lot's O' Nuts  →  Mississippi,5,178.6,60.0,58.17999999999999,Second Class
+Wicked Choccy's  →  New Mexico,6,178.67,50.0,57.574999999999996,Second Class
+Secret Factory  →  Florida,4,178.75,50.0,56.817499999999995,Second Class
+Wicked Choccy's  →  Missouri,13,178.77,15.38,56.646153846153844,Second Class
+Lot's O' Nuts  →  Oklahoma,4,179.0,0.0,54.55,Second Class
+Lot's O' Nuts  →  District of Columbia,3,179.0,0.0,54.54999999999999,Second Class
+Secret Factory  →  Louisiana,1,179.0,0.0,54.55,Second Class
+Secret Factory  →  Minnesota,1,179.0,0.0,54.55,Second Class
+Wicked Choccy's  →  Minnesota,8,179.12,37.5,53.41,Second Class
+Lot's O' Nuts  →  Missouri,15,179.13,40.0,53.333999999999996,Second Class
+Wicked Choccy's  →  Alberta,4,179.25,25.0,52.275,Second Class
+Lot's O' Nuts  →  New Mexico,3,179.67,66.67,48.48333333333333,Second Class
+Sugar Shack  →  New York,1,180.0,100.0,45.45,Second Class
+Secret Factory  →  Arkansas,1,180.0,100.0,45.45,Second Class
+Secret Factory  →  Arkansas,1,178.0,0.0,63.64,Standard Class
+Sugar Shack  →  Washington,1,178.0,0.0,63.64,Standard Class
+The Other Factory  →  Massachusetts,1,178.0,0.0,63.64,Standard Class
+The Other Factory  →  Virginia,2,178.0,0.0,63.64,Standard Class
+Secret Factory  →  Vermont,1,178.0,0.0,63.64,Standard Class
+Secret Factory  →  New Mexico,1,178.0,0.0,63.64,Standard Class
+Secret Factory  →  Mississippi,1,178.0,0.0,63.64,Standard Class
+The Other Factory  →  Rhode Island,1,178.0,0.0,63.64,Standard Class
+Sugar Shack  →  Rhode Island,1,178.0,0.0,63.64,Standard Class
+Secret Factory  →  Louisiana,1,178.0,0.0,63.64,Standard Class
+Wicked Choccy's  →  Vermont,4,178.0,0.0,63.64,Standard Class
+Wicked Choccy's  →  Maine,2,178.0,0.0,63.64,Standard Class
+Wicked Choccy's  →  Ontario,26,178.15,0.0,62.24153846153846,Standard Class
+Lot's O' Nuts  →  New Hampshire,6,178.17,0.0,62.125,Standard Class
+Lot's O' Nuts  →  Ontario,16,178.19,0.0,61.935625,Standard Class
+The Other Factory  →  Texas,5,178.2,0.0,61.822,Standard Class
+Wicked Choccy's  →  New Brunswick,4,178.25,0.0,61.3675,Standard Class
+Lot's O' Nuts  →  New Brunswick,4,178.25,0.0,61.3675,Standard Class
+Wicked Choccy's  →  Nova Scotia,4,178.25,0.0,61.3675,Standard Class
+Secret Factory  →  Florida,3,178.33,0.0,60.60999999999999,Standard Class
+Lot's O' Nuts  →  Vermont,5,178.4,20.0,60.001999999999995,Standard Class
+Wicked Choccy's  →  British Columbia,4,178.5,0.0,59.095,Standard Class
+Secret Factory  →  Illinois,6,178.5,16.67,59.093333333333334,Standard Class
+The Other Factory  →  Georgia,2,178.5,0.0,59.095,Standard Class
+Wicked Choccy's  →  Manitoba,8,178.5,0.0,59.095,Standard Class
+Secret Factory  →  Quebec,2,178.5,0.0,59.095,Standard Class
+Lot's O' Nuts  →  Montana,8,178.62,0.0,57.958749999999995,Standard Class
+Secret Factory  →  Tennessee,3,178.67,33.33,57.576666666666675,Standard Class
+The Other Factory  →  New Jersey,3,178.67,0.0,57.580000000000005,Standard Class
+Lot's O' Nuts  →  Nebraska,15,178.67,0.0,57.58,Standard Class
+Wicked Choccy's  →  Idaho,4,178.75,25.0,56.82,Standard Class
+Wicked Choccy's  →  Colorado,42,178.76,9.52,56.71333333333333,Standard Class
+Lot's O' Nuts  →  Missouri,16,178.81,25.0,56.251875,Standard Class
+Lot's O' Nuts  →  Louisiana,11,178.82,9.09,56.20181818181818,Standard Class
+Wicked Choccy's  →  Alabama,9,178.89,22.22,55.55777777777777,Standard Class
+Lot's O' Nuts  →  Kansas,9,178.89,22.22,55.55777777777777,Standard Class
+Secret Factory  →  Ohio,9,178.89,22.22,55.55777777777777,Standard Class
+Lot's O' Nuts  →  Mississippi,20,178.9,25.0,55.456500000000005,Standard Class
+Wicked Choccy's  →  Missouri,11,178.91,27.27,55.373636363636365,Standard Class
+The Other Factory  →  California,11,178.91,36.36,55.372727272727275,Standard Class
+Lot's O' Nuts  →  Pennsylvania,210,178.92,24.76,55.28338095238095,Standard Class
+Lot's O' Nuts  →  Wyoming,1,179.0,0.0,54.55,Standard Class
+The Other Factory  →  Connecticut,1,179.0,0.0,54.55,Standard Class
+Secret Factory  →  Massachusetts,1,179.0,0.0,54.55,Standard Class
+Secret Factory  →  Georgia,5,179.0,0.0,54.55,Standard Class
+Sugar Shack  →  New York,6,179.0,33.33,54.54666666666666,Standard Class
+Secret Factory  →  South Carolina,1,179.0,0.0,54.55,Standard Class
+Sugar Shack  →  Arizona,1,179.0,0.0,54.55,Standard Class
+The Other Factory  →  Ohio,1,179.0,0.0,54.55,Standard Class
+The Other Factory  →  Indiana,1,179.0,0.0,54.55,Standard Class
+Lot's O' Nuts  →  West Virginia,1,179.0,0.0,54.55,Standard Class
+The Other Factory  →  Maryland,1,179.0,0.0,54.55,Standard Class
+Sugar Shack  →  Michigan,2,179.0,50.0,54.545,Standard Class
+Lot's O' Nuts  →  Idaho,9,179.0,33.33,54.54666666666667,Standard Class
+Wicked Choccy's  →  West Virginia,2,179.0,0.0,54.55,Standard Class
+Wicked Choccy's  →  Louisiana,3,179.0,33.33,54.54666666666666,Standard Class
+Secret Factory  →  Delaware,1,179.0,0.0,54.55,Standard Class
+Wicked Choccy's  →  Mississippi,18,179.06,38.89,54.041111111111114,Standard Class
+Lot's O' Nuts  →  British Columbia,16,179.06,18.75,53.98,Standard Class
+Lot's O' Nuts  →  Massachusetts,39,179.08,25.64,53.84820512820512,Standard Class
+Secret Factory  →  Pennsylvania,11,179.09,27.27,53.72090909090909,Standard Class
+Wicked Choccy's  →  Quebec,22,179.14,22.73,53.308181818181815,Standard Class
+Wicked Choccy's  →  South Carolina,7,179.14,14.29,53.25,Standard Class
+Wicked Choccy's  →  Wisconsin,34,179.15,26.47,53.21058823529411,Standard Class
+Wicked Choccy's  →  Pennsylvania,143,179.15,32.87,53.148251748251745,Standard Class
+Wicked Choccy's  →  Maryland,26,179.15,19.23,53.14961538461538,Standard Class
+Lot's O' Nuts  →  Prince Edward Island,6,179.17,33.33,53.031666666666666,Standard Class
+Wicked Choccy's  →  Massachusetts,35,179.17,25.71,52.98914285714285,Standard Class
+Lot's O' Nuts  →  Virginia,60,179.18,30.0,52.8805,Standard Class
+Lot's O' Nuts  →  Texas,357,179.2,34.73,52.76417366946779,Standard Class
+Wicked Choccy's  →  Ohio,93,179.22,32.26,52.59193548387097,Standard Class
+Secret Factory  →  New York,13,179.23,46.15,52.447692307692314,Standard Class
+Lot's O' Nuts  →  Wisconsin,39,179.23,33.33,52.44897435897436,Standard Class
+Lot's O' Nuts  →  North Carolina,93,179.25,36.56,52.29827956989247,Standard Class
+Secret Factory  →  Michigan,4,179.25,50.0,52.2725,Standard Class
+Wicked Choccy's  →  Utah,12,179.25,41.67,52.27333333333333,Standard Class
+Wicked Choccy's  →  Texas,231,179.26,37.66,52.14584415584416,Standard Class
+Secret Factory  →  California,15,179.27,33.33,52.12266666666667,Standard Class
+Lot's O' Nuts  →  Maryland,37,179.27,37.84,52.089459459459455,Standard Class
+Wicked Choccy's  →  Kentucky,33,179.27,36.36,52.06727272727273,Standard Class
+Wicked Choccy's  →  California,511,179.28,36.4,52.002583170254404,Standard Class
+Lot's O' Nuts  →  Illinois,155,179.28,37.42,51.965870967741935,Standard Class
+Secret Factory  →  Texas,7,179.29,28.57,51.949999999999996,Standard Class
+Lot's O' Nuts  →  Georgia,70,179.29,34.29,51.94942857142857,Standard Class
+Wicked Choccy's  →  Virginia,63,179.3,38.1,51.804761904761904,Standard Class
+Lot's O' Nuts  →  Quebec,16,179.31,31.25,51.70625,Standard Class
+Wicked Choccy's  →  Illinois,134,179.31,39.55,51.696940298507464,Standard Class
+Wicked Choccy's  →  North Carolina,59,179.32,40.68,51.61864406779661,Standard Class
+Lot's O' Nuts  →  California,628,179.33,40.45,51.54972929936306,Standard Class
+Lot's O' Nuts  →  Florida,124,179.33,37.9,51.54064516129032,Standard Class
+Secret Factory  →  Indiana,3,179.33,33.33,51.51666666666667,Standard Class
+Sugar Shack  →  Florida,3,179.33,33.33,51.51666666666667,Standard Class
+Secret Factory  →  Wisconsin,3,179.33,33.33,51.51666666666667,Standard Class
+Secret Factory  →  Arizona,3,179.33,33.33,51.51666666666667,Standard Class
+Lot's O' Nuts  →  Maine,6,179.33,50.0,51.51500000000001,Standard Class
+Lot's O' Nuts  →  Minnesota,35,179.34,31.43,51.43028571428571,Standard Class
+Lot's O' Nuts  →  Michigan,91,179.35,46.15,51.3489010989011,Standard Class
+Wicked Choccy's  →  Georgia,39,179.36,35.9,51.28333333333333,Standard Class
+Lot's O' Nuts  →  South Carolina,8,179.38,25.0,51.13875,Standard Class
+Wicked Choccy's  →  Tennessee,53,179.38,43.4,51.115471698113204,Standard Class
+Lot's O' Nuts  →  Ohio,126,179.39,45.24,51.01047619047619,Standard Class
+Lot's O' Nuts  →  New York,381,179.4,40.42,50.94335958005249,Standard Class
+Wicked Choccy's  →  New York,268,179.4,41.79,50.88268656716418,Standard Class
+Lot's O' Nuts  →  Arizona,72,179.44,41.67,50.505833333333335,Standard Class
+Wicked Choccy's  →  New Mexico,11,179.45,36.36,50.41454545454545,Standard Class
+Lot's O' Nuts  →  Alabama,22,179.45,45.45,50.41363636363636,Standard Class
+Lot's O' Nuts  →  Washington,162,179.46,42.59,50.39351851851852,Standard Class
+Lot's O' Nuts  →  Kentucky,35,179.46,42.86,50.39028571428572,Standard Class
+Lot's O' Nuts  →  Connecticut,24,179.46,37.5,50.379999999999995,Standard Class
+Wicked Choccy's  →  New Jersey,39,179.46,46.15,50.35,Standard Class
+Lot's O' Nuts  →  Utah,15,179.47,53.33,50.30266666666667,Standard Class
+Lot's O' Nuts  →  Tennessee,76,179.47,47.37,50.23947368421052,Standard Class
+Lot's O' Nuts  →  Indiana,51,179.49,45.1,50.08960784313726,Standard Class
+Lot's O' Nuts  →  Oregon,53,179.49,47.17,50.086037735849054,Standard Class
+Wicked Choccy's  →  Michigan,71,179.49,52.11,50.06380281690141,Standard Class
+Wicked Choccy's  →  Florida,103,179.5,47.57,50.04436893203883,Standard Class
+Wicked Choccy's  →  Kansas,6,179.5,33.33,50.001666666666665,Standard Class
+Wicked Choccy's  →  Alberta,4,179.5,50.0,50.0,Standard Class
+The Other Factory  →  New York,10,179.5,50.0,50.0,Standard Class
+Sugar Shack  →  Texas,2,179.5,50.0,50.0,Standard Class
+The Other Factory  →  Alabama,2,179.5,50.0,50.0,Standard Class
+Secret Factory  →  New Jersey,2,179.5,50.0,50.0,Standard Class
+Lot's O' Nuts  →  Colorado,54,179.5,42.59,50.00074074074074,Standard Class
+Secret Factory  →  Alberta,2,179.5,50.0,50.0,Standard Class
+Lot's O' Nuts  →  Alberta,6,179.5,50.0,50.0,Standard Class
+Wicked Choccy's  →  Saskatchewan,2,179.5,50.0,50.0,Standard Class
+Wicked Choccy's  →  Prince Edward Island,4,179.5,50.0,50.0,Standard Class
+Wicked Choccy's  →  New Hampshire,7,179.57,42.86,49.35142857142857,Standard Class
+Lot's O' Nuts  →  Delaware,26,179.58,46.15,49.301153846153845,Standard Class
+Wicked Choccy's  →  Arkansas,17,179.59,41.18,49.19882352941176,Standard Class
+Wicked Choccy's  →  Oklahoma,18,179.61,50.0,48.989999999999995,Standard Class
+Lot's O' Nuts  →  South Dakota,8,179.62,75.0,48.86125,Standard Class
+Lot's O' Nuts  →  Rhode Island,8,179.62,50.0,48.863749999999996,Standard Class
+Lot's O' Nuts  →  New Mexico,14,179.64,42.86,48.70214285714285,Standard Class
+Wicked Choccy's  →  Delaware,31,179.65,51.61,48.68032258064516,Standard Class
+Wicked Choccy's  →  Washington,122,179.66,50.82,48.50975409836065,Standard Class
+Wicked Choccy's  →  Arizona,63,179.67,58.73,48.48412698412698,Standard Class
+Sugar Shack  →  Pennsylvania,3,179.67,66.67,48.48333333333333,Standard Class
+Wicked Choccy's  →  Rhode Island,6,179.67,66.67,48.48333333333333,Standard Class
+Lot's O' Nuts  →  New Jersey,46,179.67,56.52,48.41847826086956,Standard Class
+Wicked Choccy's  →  Connecticut,16,179.69,43.75,48.29625,Standard Class
+Lot's O' Nuts  →  Oklahoma,29,179.69,58.62,48.2751724137931,Standard Class
+Wicked Choccy's  →  Indiana,40,179.7,62.5,48.18075,Standard Class
+Wicked Choccy's  →  Oregon,30,179.7,56.67,48.181333333333335,Standard Class
+Lot's O' Nuts  →  Iowa,10,179.7,70.0,48.18,Standard Class
+Lot's O' Nuts  →  Arkansas,20,179.7,55.0,48.1815,Standard Class
+Wicked Choccy's  →  Nebraska,7,179.71,42.86,48.05285714285714,Standard Class
+Wicked Choccy's  →  Iowa,8,179.75,62.5,47.72625,Standard Class
+The Other Factory  →  Pennsylvania,4,179.75,50.0,47.7275,Standard Class
+Wicked Choccy's  →  Nevada,5,179.8,60.0,47.272000000000006,Standard Class
+Secret Factory  →  Washington,5,179.8,60.0,47.272000000000006,Standard Class
+Wicked Choccy's  →  Minnesota,27,179.85,51.85,46.801481481481474,Standard Class
+Lot's O' Nuts  →  Nevada,15,179.87,73.33,46.66466666666667,Standard Class
+Secret Factory  →  Rhode Island,1,180.0,100.0,45.45,Standard Class
+Secret Factory  →  Colorado,2,180.0,50.0,45.455,Standard Class
+Secret Factory  →  Maryland,2,180.0,50.0,45.455,Standard Class
+Lot's O' Nuts  →  District of Columbia,5,180.0,100.0,45.45,Standard Class
+Lot's O' Nuts  →  North Dakota,2,180.0,100.0,45.45,Standard Class
+Sugar Shack  →  Ohio,1,180.0,100.0,45.45,Standard Class
+The Other Factory  →  Missouri,1,180.0,100.0,45.45,Standard Class
+Secret Factory  →  Virginia,1,180.0,100.0,45.45,Standard Class
+Sugar Shack  →  Delaware,1,180.0,100.0,45.45,Standard Class
+Secret Factory  →  Utah,1,180.0,100.0,45.45,Standard Class
+The Other Factory  →  Washington,4,180.0,50.0,45.455,Standard Class
+The Other Factory  →  Colorado,1,180.0,100.0,45.45,Standard Class
+The Other Factory  →  Florida,1,180.0,100.0,45.45,Standard Class
+Wicked Choccy's  →  South Dakota,1,180.0,100.0,45.45,Standard Class
+Wicked Choccy's  →  District of Columbia,2,180.0,100.0,45.45,Standard Class
+Wicked Choccy's  →  Montana,5,180.2,60.0,43.636,Standard Class
+The Other Factory  →  Tennessee,2,180.5,100.0,40.905,Standard Class
+Secret Factory  →  North Carolina,3,180.67,66.67,39.39333333333333,Standard Class
+Secret Factory  →  Nevada,1,181.0,100.0,36.36,Standard Class
+Secret Factory  →  New Hampshire,1,181.0,100.0,36.36,Standard Class
+The Other Factory  →  Delaware,1,181.0,100.0,36.36,Standard Class
+Sugar Shack  →  Connecticut,1,181.0,100.0,36.36,Standard Class
+Lot's O' Nuts  →  Newfoundland and Labrador,6,182.0,83.33,27.271666666666665,Standard Class
+Sugar Shack  →  New Jersey,1,182.0,100.0,27.27,Standard Class

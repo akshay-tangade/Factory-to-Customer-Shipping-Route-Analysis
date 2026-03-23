@@ -1,0 +1,5 @@
+Ship Mode,Route_Volume,Avg_Lead_Time,Median_Lead_Time,Lead_Time_Std_Dev,Delay_Frequency_Pct,Avg_Efficiency_Score,Avg_Sales,Total_Sales,Avg_Cost,Avg_Gross_Profit,Avg_Units
+Same Day,547,174.38,174.0,0.53,0.0,96.51,13.0,7113.67,4.41,8.59,3.610603290676417
+First Class,1548,176.55,177.0,0.89,0.0,76.84,13.77,21319.39,4.72,9.05,3.697674418604651
+Second Class,1979,177.57,177.0,1.28,7.48,67.53,14.08,27860.22,4.83,9.25,3.8130368873168266
+Standard Class,6120,179.32,179.0,1.13,38.77,51.68,13.97,85490.35,4.75,9.22,3.825

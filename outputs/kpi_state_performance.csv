@@ -1,0 +1,60 @@
+State/Province,Region,Route_Volume,Avg_Lead_Time,Lead_Time_Std_Dev,Delay_Frequency_Pct,Total_Sales,Avg_Efficiency_Score,Is_Bottleneck
+Alabama,Gulf,61,178.33,1.6,21.31,995.11,60.66,0
+Alberta,Pacific,26,179.08,0.74,30.77,530.32,53.85,0
+Arizona,Pacific,224,178.37,1.98,31.25,3587.55,60.31,0
+Arkansas,Gulf,60,178.57,2.16,38.33,891.94,58.49,0
+British Columbia,Pacific,22,178.73,0.94,13.64,290.9,57.03,0
+California,Pacific,2001,178.19,1.84,23.79,27917.4,61.91,0
+Colorado,Pacific,182,178.01,1.7,15.93,2544.91,63.54,0
+Connecticut,Atlantic,82,177.98,2.19,24.39,980.57,63.86,0
+Delaware,Atlantic,96,178.55,1.77,32.29,1323.59,58.62,1
+District of Columbia,Atlantic,10,179.7,0.48,70.0,142.25,48.18,0
+Florida,Gulf,383,178.28,1.95,27.42,4804.02,61.12,0
+Georgia,Gulf,184,178.17,1.91,21.74,2692.84,62.06,0
+Idaho,Pacific,21,178.05,1.47,19.05,225.25,63.21,0
+Illinois,Interior,492,178.45,1.62,23.78,6898.96,59.59,0
+Indiana,Interior,149,178.71,1.67,34.23,2002.78,57.17,1
+Iowa,Interior,30,178.57,1.92,40.0,400.37,58.48,0
+Kansas,Interior,24,178.29,1.6,16.67,263.18,60.99,0
+Kentucky,Gulf,139,178.3,1.65,23.02,1880.63,60.89,0
+Louisiana,Gulf,42,177.48,1.57,4.76,525.21,68.4,0
+Maine,Atlantic,8,179.0,0.93,37.5,126.48,54.55,0
+Manitoba,Interior,12,177.83,1.11,0.0,138.25,65.16,0
+Maryland,Atlantic,105,178.35,1.72,19.05,1476.99,60.43,0
+Massachusetts,Atlantic,135,178.17,1.52,14.07,1806.99,62.09,0
+Michigan,Interior,255,178.36,1.93,32.16,3331.0,60.32,0
+Minnesota,Interior,89,178.96,1.7,31.46,1161.46,54.96,1
+Mississippi,Gulf,53,178.45,1.58,28.3,844.1800000000001,59.52,0
+Missouri,Interior,66,178.5,1.44,24.24,882.83,59.09,0
+Montana,Pacific,15,178.8,1.7,20.0,202.11,56.37,0
+Nebraska,Interior,38,177.82,1.75,10.53,483.53000000000003,65.31,0
+Nevada,Pacific,39,178.59,2.01,38.46,759.46,58.28,0
+New Brunswick,Atlantic,8,178.25,0.46,0.0,172.72,61.37,0
+New Hampshire,Atlantic,27,178.0,1.75,14.81,428.27,63.64,0
+New Jersey,Atlantic,130,178.75,1.71,35.38,1578.3500000000001,56.78,1
+New Mexico,Pacific,37,179.14,1.49,40.54,502.71000000000004,53.32,0
+New York,Atlantic,1128,178.37,1.84,27.57,15541.03,60.29,0
+Newfoundland and Labrador,Atlantic,6,182.0,2.53,83.33,162.0,27.27,0
+North Carolina,Gulf,249,178.32,1.78,24.5,3450.86,60.75,0
+North Dakota,Interior,7,177.86,1.46,28.57,109.66,64.94,0
+Nova Scotia,Atlantic,6,177.67,1.03,0.0,87.5,66.67,0
+Ohio,Atlantic,469,177.81,1.96,20.47,6768.95,65.34,0
+Oklahoma,Interior,66,178.71,1.93,39.39,877.65,57.16,0
+Ontario,Atlantic,58,177.64,1.12,0.0,814.57,66.93,0
+Oregon,Pacific,124,178.6,1.71,33.87,1920.15,58.21,1
+Pennsylvania,Atlantic,587,178.21,1.59,18.4,8027.03,61.72,0
+Prince Edward Island,Atlantic,10,179.3,0.67,40.0,130.1,51.82,0
+Quebec,Atlantic,50,178.64,1.77,22.0,597.68,57.82,0
+Rhode Island,Atlantic,56,177.66,1.69,19.64,805.76,66.72,0
+Saskatchewan,Pacific,2,179.5,0.71,50.0,29.25,50.0,0
+South Carolina,Gulf,42,177.81,1.77,9.52,601.07,65.37,0
+South Dakota,Interior,12,179.25,1.14,58.33,151.34,52.27,0
+Tennessee,Gulf,183,178.81,1.51,34.97,2383.56,56.29,1
+Texas,Interior,985,178.25,1.75,23.25,13416.09,61.37,0
+Utah,Pacific,53,178.66,1.36,26.42,856.41,57.63,0
+Vermont,Atlantic,11,178.0,0.89,9.09,162.44,63.64,0
+Virginia,Gulf,224,178.12,1.71,19.2,3177.84,62.54,0
+Washington,Pacific,506,178.38,1.95,27.87,6921.15,60.19,0
+West Virginia,Atlantic,4,178.0,2.0,0.0,63.97,63.64,0
+Wisconsin,Interior,110,178.32,1.68,20.91,1920.5,60.75,0
+Wyoming,Pacific,1,179.0,,0.0,13.96,54.55,0

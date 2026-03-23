@@ -1,0 +1,5 @@
+Region,Route_Volume,Avg_Lead_Time,Lead_Time_Std_Dev,Delay_Frequency_Pct,Total_Sales,Avg_Efficiency_Score
+Interior,2335,178.38,1.73,25.74,32037.600000000002,60.16
+Gulf,1620,178.3,1.8,24.81,22247.260000000002,60.93
+Pacific,3253,178.27,1.84,25.24,46301.53,61.15
+Atlantic,2986,178.24,1.8,23.34,41197.24,61.46
