@@ -7,12 +7,14 @@ Layer 1 + 2: Full analysis, feature engineering, KPI computation
 import pandas as pd
 import numpy as np
 import os
+from pathlib import Path
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURATION
 # ─────────────────────────────────────────────────────────────────────────────
-INPUT_CSV  = "../Nassau Candy Distributor.csv"
-OUTPUT_DIR = "../outputs"
+BASE_DIR = Path(__file__).resolve().parent
+INPUT_CSV  = BASE_DIR.parent / "Nassau Candy Distributor.csv"
+OUTPUT_DIR = BASE_DIR.parent / "outputs"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 SEP = "\n" + "=" * 65
