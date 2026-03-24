@@ -239,7 +239,7 @@ with tab1:
         st.plotly_chart(fig2, use_container_width=True)
 
     # Lead Time Variability
-    st.subheader("Lead Time Variability — Top 20 Routes by Volume")
+    st.subheader("Lead Time Variability - Top 20 Routes by Volume")
     st.caption("Std Dev of lead time: higher = less predictable delivery")
     top20 = routes.nlargest(20, "Route_Volume").sort_values("Lead_Time_Std_Dev", ascending=False)
     fig_v = px.bar(
@@ -273,7 +273,7 @@ with tab1:
 
     ml, mr = st.columns(2)
     with ml:
-        st.markdown(f"**🏆 Top 10 — {mode_sel}**")
+        st.markdown(f"**🏆 Top 10 - {mode_sel}**")
         fg = px.bar(mode_routes.head(10),
                     x="Avg_Lead_Time", y="Route_State", orientation="h",
                     color="Avg_Lead_Time", color_continuous_scale="RdYlGn_r",
@@ -284,7 +284,7 @@ with tab1:
                          yaxis=dict(autorange="reversed"), margin=dict(l=5, r=30, t=5, b=5))
         st.plotly_chart(fg, use_container_width=True)
     with mr:
-        st.markdown(f"**⚠️ Bottom 10 — {mode_sel}**")
+        st.markdown(f"**⚠️ Bottom 10 - {mode_sel}**")
         fg2 = px.bar(mode_routes.tail(10).sort_values("Avg_Lead_Time", ascending=False),
                      x="Avg_Lead_Time", y="Route_State", orientation="h",
                      color="Avg_Lead_Time", color_continuous_scale="RdYlGn_r",
@@ -296,7 +296,7 @@ with tab1:
         st.plotly_chart(fg2, use_container_width=True)
 
     # Full route table
-    with st.expander("📋 Full Route Leaderboard — All Routes"):
+    with st.expander("📋 Full Route Leaderboard - All Routes"):
         st.dataframe(
             routes[["Efficiency_Rank","Route_State","Route_Volume","Avg_Lead_Time",
                      "Median_Lead_Time","Lead_Time_Std_Dev","Avg_Efficiency_Score",
@@ -352,7 +352,7 @@ with tab2:
                     "Delay_Frequency_Pct": ":.1f",
                     "Route_Volume": ":,"},
         labels={map_metric: metric_label},
-        title=f"US State Heatmap — {metric_label}",
+        title=f"US State Heatmap - {metric_label}",
     )
 
     factory_df = pd.DataFrame([
@@ -417,7 +417,7 @@ with tab3:
     st.markdown("<br>", unsafe_allow_html=True)
 
     # Quadrant chart
-    st.subheader("Volume vs. Lead Time — Bottleneck Quadrant")
+    st.subheader("Volume vs. Lead Time - Bottleneck Quadrant")
     vol_p60 = states["Route_Volume"].quantile(0.60)
     lt_p60  = states["Avg_Lead_Time"].quantile(0.60)
     states["Category"] = states["Is_Bottleneck"].map({1: "🚨 Bottleneck", 0: "✅ Acceptable"})
@@ -444,7 +444,7 @@ with tab3:
     st.plotly_chart(fig_q, use_container_width=True)
 
     # Bottleneck table
-    st.subheader("🚨 Bottleneck States — Full KPI Detail")
+    st.subheader("🚨 Bottleneck States - Full KPI Detail")
     st.dataframe(
         bottlenecks[["State/Province","Region","Route_Volume","Avg_Lead_Time",
                       "Lead_Time_Std_Dev","Delay_Frequency_Pct",
@@ -532,7 +532,7 @@ with tab4:
         st.plotly_chart(fig_dual, use_container_width=True)
 
     # Factory × Ship Mode heatmap
-    st.subheader("Factory × Ship Mode — Avg Lead Time Heatmap")
+    st.subheader("Factory × Ship Mode - Avg Lead Time Heatmap")
     fac_plot = fac_pivot.set_index("Factory")
     fac_plot = fac_plot.reindex(columns=[c for c in SHIP_MODE_ORDER if c in fac_plot.columns])
     fig_hm = px.imshow(
@@ -544,7 +544,7 @@ with tab4:
     st.plotly_chart(fig_hm, use_container_width=True)
 
     # Cost-time scatter
-    st.subheader("Cost vs Speed — Trade-off Chart")
+    st.subheader("Cost vs Speed - Trade-off Chart")
     fig_ct = px.scatter(
         ship_modes, x="Avg_Lead_Time", y="Avg_Cost",
         size="Route_Volume", text="Ship Mode", color="Ship Mode",
@@ -556,7 +556,7 @@ with tab4:
     st.plotly_chart(fig_ct, use_container_width=True)
 
     # Descriptive tradeoff table
-    st.subheader("📋 Descriptive Cost–Time Trade-off Summary")
+    st.subheader("📋 Descriptive Cost-Time Trade-off Summary")
     tradeoff = ship_modes[["Ship Mode","Avg_Lead_Time","Avg_Cost","Avg_Gross_Profit",
                             "Delay_Frequency_Pct","Route_Volume","Avg_Sales"]].copy()
     tradeoff["Profit_Margin_%"] = (100 * tradeoff["Avg_Gross_Profit"] / tradeoff["Avg_Sales"]).round(1)
@@ -630,7 +630,7 @@ with tab5:
                      .rename(columns={"mean": "Avg", "std": "Std"}))
             fig_t = px.line(
                 trend, x="Order Month", y="Avg", markers=True, error_y="Std",
-                title=f"Monthly Lead Time Trend — {sel_factory} → {sel_state}",
+                title=f"Monthly Lead Time Trend - {sel_factory} → {sel_state}",
                 labels={"Avg": "Avg Lead Time (days)", "Order Month": "Month"},
             )
             fig_t.update_layout(height=320)
